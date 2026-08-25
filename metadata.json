@@ -1,6 +1,6 @@
 {
-  "name": "CogniGrid",
-  "description": "Global AI-driven intelligent financial ecosystem network developed under Cogni Quant Foundation.",
+  "name": "CogniGrid - AI Financial Ecosystem",
+  "description": "CogniGrid is a global AI-driven intelligent financial ecosystem network developed under the promotion of Cogni Quant Foundation, backed by FinCEN MSB #31000337267999 and $20,000,000 USDT AUM.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
