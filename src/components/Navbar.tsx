@@ -56,7 +56,7 @@ export const Navbar: React.FC<NavbarProps> = ({ lang, onToggleLang }) => {
             <div className="flex flex-col">
               <div className="flex items-center gap-2">
                 <span className="font-display font-extrabold text-lg sm:text-xl tracking-tight text-slate-900">
-                  CogniGrid<span className="text-blue-600 font-bold">.xyz</span>
+                  CogniGrid<span className="text-blue-600 font-bold">.vip</span>
                 </span>
                 <span className="text-[10px] font-bold uppercase tracking-wider text-blue-700 bg-blue-50 border border-blue-200/60 px-1.5 py-0.5 rounded">
                   FOUNDATION
